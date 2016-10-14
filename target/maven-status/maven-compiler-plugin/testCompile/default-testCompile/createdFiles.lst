@@ -1,0 +1,7 @@
+org/apache/lucene/ko/TestKoreanAnalyzer.class
+org/apache/lucene/ko/TestMorphologicalAnalyzer.class
+org/apache/lucene/ko/WordSegmentFilterTest.class
+zoe/Test.class
+org/apache/lucene/ko/TestCompoundSegment.class
+zoe/SearchIndex2.class
+org/apache/lucene/ko/TestKoreanAnalyzer1.class
